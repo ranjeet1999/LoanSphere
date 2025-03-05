@@ -40,15 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-
-# Ignore Visual Studio files
-.vs/
-.vscode/
-bin/
-obj/
-
-# Ignore user-specific files
-*.user
-*.userosscache
-*.suo
-*.userprefs
